@@ -24,7 +24,7 @@ This fragment loads a list of bookmarked articles which is stored within SharedP
 
 
 # Preferences Fragment
-This fragment allows the user to select location and language settings for the articles populated within the Covid-19 News Fragment and can also choose to limit the data shown in the Covid-19 Cases Fragment to a specific province. From this screen you are also able to restore the default prefrence settings and clear all the saved articles from the Bookmarked Fragment.
+This fragment allows the user to select location and language settings for the articles populated within the Covid-19 News Fragment and can also choose to limit the data shown in the Covid-19 Cases Fragment to a specific province. From this screen you are also able to restore the default preference settings and clear all the saved articles from the Bookmarked Fragment.
 
 <img src="./images/preferencescreen.jpg" width="50%" height="50%">
 
