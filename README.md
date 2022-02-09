@@ -8,7 +8,7 @@ You can choose to view:
 # Covid-19 News Fragment
 This fragment uses the mediastack.com API to populate a RecyclerView and allows the user to bookmark a given article which is then saved in SharedPreferences.
 
-<img src="./images/mainscreen.jpg" width="50%" height="50%">
+<img src="./images/mainscreen1.jpg" width="50%" height="50%">
 
 
 # Covid-19 Cases Fragment
